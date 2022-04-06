@@ -1,0 +1,6 @@
+.icon:hover {
+  color: #a72608;
+  cursor: pointer;
+  transform: rotate(20deg);
+  transition: 200ms linear;
+}

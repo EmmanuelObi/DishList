@@ -1,0 +1,28 @@
+.header_container {
+  min-height: 100px;
+  background: #090c02;
+  color: #fff;
+  padding: 20px 5vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_container h2 {
+  font-size: 30px;
+}
+.social_links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 20%;
+}
+.link {
+  text-decoration: none;
+  color: #fff;
+}
+.headerIcon:hover {
+  color: #a72608;
+  cursor: pointer;
+  transform: rotate(-10deg);
+  transition: 200ms ease-in-out;
+}
