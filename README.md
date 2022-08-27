@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Hi there, thanks for coming to view this work.
 ### check it out [Live Here](https://dishly.netlify.app/)
+![dishly](https://github.com/EmmanuelObi/DishList/blob/main/public/Screenshot%202022-08-27%20at%2011.10.57.png?raw=true)
 
 ## Available Scripts
 
